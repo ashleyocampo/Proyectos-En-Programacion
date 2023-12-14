@@ -1,0 +1,48 @@
+Nombre del dinosaurio: 
+Género: 
+Alimentación: 
+Fecha de Registro: 
+Tipo de Dinosaurio: 
+Edad del Dinosaurio: 
+Consideraciones importantes: 
+------------------------------------------
+Nombre del dinosaurio: 
+Género: 
+Alimentación: 
+Fecha de Registro: 
+Tipo de Dinosaurio: 
+Edad del Dinosaurio: 
+Consideraciones importantes: 
+------------------------------------------
+Nombre del dinosaurio: 
+Género: 
+Alimentación: 
+Fecha de Registro: 
+Tipo de Dinosaurio: 
+Edad del Dinosaurio: 
+Consideraciones importantes: 
+------------------------------------------
+Nombre del dinosaurio: Tirex
+Género: 4
+Alimentación: 4
+Fecha de Registro: 2023-02-23
+Tipo de Dinosaurio: 
+Edad del Dinosaurio: 4666
+Consideraciones importantes:  N/A
+------------------------------------------
+Nombre del dinosaurio: tirrex
+Genero: 2
+Alimentacion: 2
+Fecha de Registro: 2023-02-23
+Tipo de Dinosaurio: 
+Edad del Dinosaurio: 577
+Consideraciones importantes:  na
+------------------------------------------
+Nombre del dinosaurio: Tirex
+Genero: 2
+Alimentacion: 2
+Fecha de Registro: 2023-02-23
+Tipo de Dinosaurio: 
+Edad del Dinosaurio: 2456
+Consideraciones importantes:  na
+------------------------------------------
