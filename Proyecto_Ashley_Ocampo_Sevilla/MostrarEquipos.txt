@@ -1,0 +1,33 @@
+<html>
+	<head>
+		<title> Mostrar Equipos </title>
+		<meta uft-8>
+	</head>
+	<body>
+		<h3>Equipo</h3>
+		<?php
+		
+		
+		//comentarios en PHP
+	echo $_REQUEST ['nombre'] . "<br/>";
+	echo $_REQUEST ['jugador1'] . "<br/>";
+	echo $_REQUEST ['jugador2'] . "<br/>";
+	echo $_REQUEST ['jugador3'] . "<br/>";
+	
+		
+	if (isset($_REQUEST ['categoria1'])) {
+        echo $_REQUEST ['categoria1'] . "<br/>";
+	}
+	if (isset($_REQUEST ['categoria2'])) {
+        echo $_REQUEST ['categoria2'] . "<br/>";
+	}
+	if (isset($_REQUEST ['categoria3'])) {
+        echo $_REQUEST ['categoria3'] . "<br/>";
+	}
+
+
+	?>
+	
+	</body>
+	
+</html>
